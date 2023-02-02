@@ -21,7 +21,7 @@ body{
     
     color:white;
     text-decoration: none;
-    font-weight: 600;
+    font-weight: 400;
     text-align: center;
     margin-left: 5%;
     margin-right: 5%;
@@ -29,14 +29,24 @@ body{
 
 @media screen and (max-width: 600px) {
     .navbar a {
-      display: flex;
-      flex-direction: column;
       margin-top: 1%;
-      width: 100%;
       align-self: center;
+      font-weight: 400;
+      /* text-align: center; */
+      margin-left: 2%;
+      margin-right: 3%;
     }
     .navbar{
+        display:flex;
+        flex-direction: row;
+        justify-items: space-between;
+        /* justify-items: stretch; */
+        width: 100%;
+        /* display: inline-block; */
+        /* width: auto; */
         text-align: center;
+        align-self: center;
         align-items: center;
+        margin-right: 1%;
     }
   }

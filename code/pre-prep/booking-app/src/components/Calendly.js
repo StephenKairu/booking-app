@@ -6,7 +6,7 @@ const Calendly = () => {
       <iframe
         src="https://calendly.com/stevekairu/30min?hide_gdpr_banner=1"
         width="80%"
-        height="90%"
+        height="100%"
         frameBorder="0"
       ></iframe>
     </div>
