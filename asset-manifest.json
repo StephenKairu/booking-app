@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/booking-app/static/css/main.f26b3bb6.css",
-    "main.js": "/booking-app/static/js/main.a4be9927.js",
+    "main.css": "/booking-app/static/css/main.6da8cfea.css",
+    "main.js": "/booking-app/static/js/main.b652ddbf.js",
     "static/js/787.dca3c7cd.chunk.js": "/booking-app/static/js/787.dca3c7cd.chunk.js",
     "static/media/BarbershopLogo.jpg": "/booking-app/static/media/BarbershopLogo.308064e43432bfa2d577.jpg",
     "static/media/Barberseat.jpg": "/booking-app/static/media/Barberseat.49dbf7270826c6b0831a.jpg",
     "index.html": "/booking-app/index.html",
-    "main.f26b3bb6.css.map": "/booking-app/static/css/main.f26b3bb6.css.map",
-    "main.a4be9927.js.map": "/booking-app/static/js/main.a4be9927.js.map",
+    "main.6da8cfea.css.map": "/booking-app/static/css/main.6da8cfea.css.map",
+    "main.b652ddbf.js.map": "/booking-app/static/js/main.b652ddbf.js.map",
     "787.dca3c7cd.chunk.js.map": "/booking-app/static/js/787.dca3c7cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f26b3bb6.css",
-    "static/js/main.a4be9927.js"
+    "static/css/main.6da8cfea.css",
+    "static/js/main.b652ddbf.js"
   ]
 }
