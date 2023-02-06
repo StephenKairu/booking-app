@@ -9,9 +9,9 @@ return (
         <ul className="navbarlist">
         <NavLink to="/">Home</NavLink>
         <NavLink to="/services">Services</NavLink>
-        <NavLink to="/booking">Book Now</NavLink>
+        <NavLink to="/booking">Book Appointment</NavLink>
         <NavLink to="/reviews">Reviews</NavLink>
-        <NavLink to="/contactpage">Contact Us</NavLink>
+        <NavLink to="/contactpage">ContactUs</NavLink>
         </ul>
     </div>
 );
